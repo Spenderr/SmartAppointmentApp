@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IA8jSqzLPbA=",
+  "success": true,
+  "projectFilePath": "/Users/ahmedpatel/CodingFolder/parallelWork/FurkanimlaDans/SmartAppointmentSystem/backend/SmartAppointmentSystem/SmartAppointmentSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmedpatel/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/ahmedpatel/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
